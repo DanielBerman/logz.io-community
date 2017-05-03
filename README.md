@@ -10,9 +10,10 @@ List of Logz.io plugins, integrations and logging resources developed by the com
 6. [ansible-logzio] - Ansible role to send logs into Logz.io. 
 7. [logzio-go] - A goland client for sending logs into Logz.io.
 8. [logzio-nlog] - A shipped for sending logs from NLog into Logz.io. 
-9. [logruzio]- A Logrus hook for shipping logs into Logz.io. 
-10.[puppet-logzio_shipper]: A Puppet module for shipping logs to Logz.io using rsyslog. 
-11. [ansible-role-logz-io]- Ansible role for installing Logz.io shippers.
+9. [logruzio] - A Logrus hook for shipping logs into Logz.io. 
+10. [puppet-logzio-shipper] - A Puppet module for shipping logs to Logz.io using rsyslog. 
+11. [ansible-role-logz-io] - Ansible role for installing Logz.io shippers.
+12. [good-logzio] - Logz.io logger for hapijs. 
 
 [threatsatck-to-logzio]: https://github.com/threatstack/threatstack-to-logzio
 [logger]: https://github.com/vagnercsouza/logger
@@ -23,5 +24,6 @@ List of Logz.io plugins, integrations and logging resources developed by the com
 [logzio-go]:https://github.com/dougEfresh/logzio-go
 [logzio-nlog]:https://github.com/kylewest/logzio-nlog
 [logruzio]:https://github.com/bshuster-repo/logruzio
-[puppet-logzio_shipper]:https://github.com/iwalz/puppet-logzio_shipper
+[puppet-logzio-shipper]: https://github.com/iwalz/puppet-logzio_shipper
 [ansible-role-logz-io]: https://github.com/wtanaka/ansible-role-logz-io
+[good-logzio]:  https://gitlab.com/widgetic/good-logzio

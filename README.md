@@ -1,4 +1,4 @@
-# logz.io-community
+##Logz.io Community Integrations
 
 List of Logz.io plugins, integrations and logging resources developed by the community.
 
